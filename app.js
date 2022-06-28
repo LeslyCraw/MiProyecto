@@ -1,0 +1,1 @@
+console.log("¡Hola Mondo! desde un rincon de Mexico\n");
